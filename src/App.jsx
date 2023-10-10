@@ -7,6 +7,7 @@ function NavBar() {
     window.scrollTo({ top: to, behavior: "smooth" });
   }
 
+  
 
   return (
     <nav>
